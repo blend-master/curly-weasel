@@ -1,8 +1,13 @@
 public class Test
 {
-  private _str1 = null;
+  private string _str1 = null;
+  public string Str1
+  {
+    get { return _str1; }
+    set { _str1 = value; }
+  }
   
-  public Test(string str1, string str2)
+  public Test(string str1)
   {
     _str1 = str1;
   }
