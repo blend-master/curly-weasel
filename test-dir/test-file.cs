@@ -7,6 +7,11 @@ public class Test
     set { _str1 = value; }
   }
   
+  public Test()
+  {
+    
+  }
+  
   public Test(string str1)
   {
     _str1 = str1;
