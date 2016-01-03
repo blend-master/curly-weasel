@@ -1,6 +1,6 @@
 public class Test
 {
-  private string _str1 = null;
+  private string _str1;
   public string Str1
   {
     get { return _str1; }
@@ -9,7 +9,7 @@ public class Test
   
   public Test()
   {
-    
+    _str1 = null;
   }
   
   public Test(string str1)
