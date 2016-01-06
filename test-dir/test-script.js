@@ -1,2 +1,3 @@
-function func1() {
+function func1(arg1) {
+  alert(arg1);
 }
