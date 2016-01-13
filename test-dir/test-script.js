@@ -1,3 +1,3 @@
-function func1(arg1) {
-  alert(arg1);
+function logToConsole(arg1) {
+  console.log(arg1);
 }
