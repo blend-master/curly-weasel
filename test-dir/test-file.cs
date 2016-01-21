@@ -4,7 +4,7 @@ public class Test
   
   public Test()
   {
-    
+    Str1 = null;
   }
   
   public Test(string str1)
