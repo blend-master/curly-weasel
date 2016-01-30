@@ -6,6 +6,7 @@ public class Test
   public Test()
   {
     Str1 = null;
+    Str2 = null;
   }
   
   public Test(string str1)
