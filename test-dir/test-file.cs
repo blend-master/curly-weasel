@@ -9,8 +9,9 @@ public class Test
     Str2 = null;
   }
   
-  public Test(string str1)
+  public Test(string str1, string str2)
   {
     Str1 = str1;
+    Str2 = str2;
   }
 }
