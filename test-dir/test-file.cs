@@ -14,4 +14,9 @@ public class Test
     Str1 = str1;
     Str2 = str2;
   }
+  
+  public void TestMethod1()
+  {
+    
+  }
 }
